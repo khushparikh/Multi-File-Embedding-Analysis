@@ -1,0 +1,8 @@
+gradio
+openai
+numpy
+streamlit
+docx2txt
+pandas
+PyPDF2
+altair<5
